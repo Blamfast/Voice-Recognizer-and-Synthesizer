@@ -33,6 +33,11 @@ Après avoir cloné le projet, vous pouvez le lancer avec Python :
 
 Une fenêtre apparaîtra, montrant la liste des microphones disponibles. Sélectionnez un microphone, puis cliquez sur le bouton "Cliquez et parlez". Parlez dans le microphone, et votre parole sera transcrit en texte, lu à haute voix, et affiché dans la fenêtre.
 
+## To Do
+
+- Utiliser la reconnaissance vocale pour créer un prompt utilisable dans l'API ChatGPT
+- Lecture du résultat retourné par ChatGPT par la synthèse vocale
+
 ## Contact
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à [ouvrir un ticket](https://github.com/Blamfast/Voice-Recognizer-and-Synthesizer/issues).
