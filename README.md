@@ -42,4 +42,7 @@ Une fenêtre apparaîtra, montrant la liste des microphones disponibles. Sélect
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à [ouvrir un ticket](https://github.com/Blamfast/Voice-Recognizer-and-Synthesizer/issues).
 
+## Licence
+
+Ce projet est sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
